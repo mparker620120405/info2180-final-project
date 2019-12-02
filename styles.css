@@ -63,8 +63,24 @@ input[type=submit] {
 	width: 100px;
 }
 
+input[id=description] {
+	height: 100px;
+}
+
 input[type=submit]:hover {
 	border-color: #00ff00;
 	color: #00ff00;
 	background: #000000;
 }
+
+
+button {
+	height: 35px;
+	width: 100px;
+}
+
+button:hover {
+	border-color: #00ff00;
+	color: #00ff00;
+	background: #000000;
+} 
